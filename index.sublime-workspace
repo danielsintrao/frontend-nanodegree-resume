@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fex",
+				"flex-direction"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 197.0,
+		"last_filter": "enable",
+		"selected_items":
+		[
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"csscomb",
+				"Run CSScomb"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/Release 2/test-snippets.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/Release 2/w_admin-theme-test.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/Release 2/menu-scroll-firefox.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/Release 2/login-corrections.css",
+		"/Users/danielsintrao/Desktop/Personal Projects/rb-store/rb-style.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/wstyles.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/final-profile-card.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/profile-card-original-backup.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/wstyles-backup16112016.css",
+		"/Users/danielsintrao/Desktop/WODIFY/CSS/profile-card.css",
+		"/Users/danielsintrao/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/danielsintrao/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/Users/danielsintrao/Desktop/Mediaweb Projects/popup_countdown.html",
+		"/Users/danielsintrao/Desktop/Mediaweb Projects/FlipClock-master/examples/countdown-stop-callback.html",
+		"/Users/danielsintrao/Desktop/Mediaweb Projects/FlipClock-master/examples/velvet.html",
+		"/Users/danielsintrao/Desktop/Mediaweb Projects/velvetCountdown/velvet.html",
+		"/Users/danielsintrao/Desktop/Mediaweb Projects/FlipClock-master/examples/hourly-counter.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"select",
+			".AnyAllSelectContainer",
+			"If",
+			"custom",
+			"fill",
+			"input[type='text']",
+			"input",
+			"WodifyAdminTheme",
+			"W_ThemeNew",
+			"W_ThemeNew_UI",
+			"/* Services/Appointments - End CSS */ ",
+			"Segments",
+			".TableVerticalAlign .Cell",
+			"/* END: Segments */",
+			"disable",
+			"purple",
+			"service",
+			".ActionSheetModal .MenuContainer a:last-child",
+			".Form input.ReadOnly",
+			".social-icon",
+			".UnderlineInput input",
+			"UnderlineInput",
+			"Underline",
+			"input[type=\"text\"]",
+			"input[type=\"text\"],",
+			"input[type='text'], ",
+			"input[type='text'], input[type='search'], input[type='password'], input[type='email'], input[type='date'], textarea, select",
+			".ProfilePicCameraLink a > div, .tablet",
+			"profile",
+			".Form label + input,",
+			"profile-card-custom-header",
+			"Right",
+			"Profile-NotesAndTagsSection",
+			"profile-card-row-icon",
+			"Menu_DropDownPanel .ContextItem",
+			"profile",
+			"profiel",
+			"\n.Menu_DropDownPanel",
+			"ModalConta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"if"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 61.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
